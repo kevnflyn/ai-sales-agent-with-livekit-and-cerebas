@@ -2,7 +2,7 @@
 
 A demo of LiveKit's framework for building agents using Cartesia Sonic-3 for voice assistance and Cerebras high-throughput, low-latency AI inference
 
-(Read LikeKit docs on Cerebras)[https://docs.livekit.io/agents/integrations/cerebras/].
+[Read LikeKit docs on Cerebras](https://docs.livekit.io/agents/integrations/cerebras/).
 
 You can follow the tutorial (here)[https://inference-docs.cerebras.ai/cookbook/agents/sales-agent-cerebras-livekit].
 
