@@ -11,6 +11,12 @@ You can follow the tutorial [here](https://inference-docs.cerebras.ai/cookbook/a
 - Python3
 - [LiveKit CLI](https://docs.livekit.io/reference/developer-tools/livekit-cli/)
 
+Accounts and API keys for:
+
+- [LiveKit](https://cloud.livekit.io/) - Agent framework
+- [Cerebras](https://cloud.cerebras.ai/) - Low-latency AI inference
+- [Cartesia](https://play.cartesia.ai/) - Voice assistance
+
 
 ## Start Development
 
