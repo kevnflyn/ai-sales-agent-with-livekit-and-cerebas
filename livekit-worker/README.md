@@ -2,9 +2,9 @@
 
 A demo of LiveKit's framework for building agents using Cartesia Sonic-3 for voice assistance and Cerebras high-throughput, low-latency AI inference
 
-[Read LikeKit docs on Cerebras](https://docs.livekit.io/agents/integrations/cerebras/).
+[Read LiveKit docs on Cerebras](https://docs.livekit.io/agents/integrations/cerebras/).
 
-You can follow the tutorial (here)[https://inference-docs.cerebras.ai/cookbook/agents/sales-agent-cerebras-livekit].
+You can follow the tutorial [here](https://inference-docs.cerebras.ai/cookbook/agents/sales-agent-cerebras-livekit).
 
 
 ## Start Development
@@ -53,7 +53,7 @@ A successful room creation will return a token.
 
 ## Enter Demo Room
 
-Go to (LikeKit Meet)[https://meet.livekit.io/?tab=custom].
+Go to [LiveKit Meet](https://meet.livekit.io/?tab=custom).
 
-Enter the address WS address from LikeKit cloud account.
+Enter the address WS address from LiveKit cloud account.
 Enter the token returned after creating a room.
