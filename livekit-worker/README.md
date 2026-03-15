@@ -6,6 +6,11 @@ A demo of LiveKit's framework for building agents using Cartesia Sonic-3 for voi
 
 You can follow the tutorial [here](https://inference-docs.cerebras.ai/cookbook/agents/sales-agent-cerebras-livekit).
 
+## Prerequisites
+
+- Python3
+- [LiveKit CLI](https://docs.livekit.io/reference/developer-tools/livekit-cli/)
+
 
 ## Start Development
 
